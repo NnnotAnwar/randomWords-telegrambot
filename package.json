@@ -1,0 +1,18 @@
+{
+  "name": "randomwordsgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1376.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "lodash": "^4.17.21",
+    "telegraf": "^4.12.2"
+  }
+}
